@@ -6,6 +6,10 @@
 	"Plugins": [
 		{
 			"Name": "HoudiniEngine",
+			"Enabled": false
+		},
+		{
+			"Name": "SceneFusion",
 			"Enabled": true
 		}
 	]
